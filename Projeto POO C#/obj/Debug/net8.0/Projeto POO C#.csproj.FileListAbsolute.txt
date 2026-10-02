@@ -1,0 +1,14 @@
+C:\Danielbg\GitHub\Projeto POO C#\bin\Debug\net8.0\Projeto POO C#.exe
+C:\Danielbg\GitHub\Projeto POO C#\bin\Debug\net8.0\Projeto POO C#.deps.json
+C:\Danielbg\GitHub\Projeto POO C#\bin\Debug\net8.0\Projeto POO C#.runtimeconfig.json
+C:\Danielbg\GitHub\Projeto POO C#\bin\Debug\net8.0\Projeto POO C#.dll
+C:\Danielbg\GitHub\Projeto POO C#\bin\Debug\net8.0\Projeto POO C#.pdb
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.AssemblyInfoInputs.cache
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.AssemblyInfo.cs
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.csproj.CoreCompileInputs.cache
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.dll
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\refint\Projeto POO C#.dll
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.pdb
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\Projeto POO C#.genruntimeconfig.cache
+C:\Danielbg\GitHub\Projeto POO C#\obj\Debug\net8.0\ref\Projeto POO C#.dll

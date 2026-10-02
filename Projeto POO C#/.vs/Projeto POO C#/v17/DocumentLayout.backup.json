@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Danielbg\\GitHub\\Projeto POO C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\models\\clinicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:models\\clinicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\interface\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:interface\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\interface\\inotificavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:interface\\inotificavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|c:\\danielbg\\github\\projeto poo c#\\projeto poo c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A947387F-E6A3-47A4-BEC9-348DF596B561}|Projeto POO C#.csproj|solutionrelative:projeto poo c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "Models\\Program.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Program.cs*",
+              "RelativeToolTip": "Models\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:42:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClinicaService.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\ClinicaService.cs",
+              "RelativeDocumentMoniker": "Models\\ClinicaService.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\ClinicaService.cs*",
+              "RelativeToolTip": "Models\\ClinicaService.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:41:22.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "Models\\Consulta.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Consulta.cs*",
+              "RelativeToolTip": "Models\\Consulta.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:39:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRelatorio.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Interface\\IRelatorio.cs",
+              "RelativeDocumentMoniker": "Interface\\IRelatorio.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Interface\\IRelatorio.cs*",
+              "RelativeToolTip": "Interface\\IRelatorio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:38:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificavel.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Interface\\INotificavel.cs",
+              "RelativeDocumentMoniker": "Interface\\INotificavel.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Interface\\INotificavel.cs*",
+              "RelativeToolTip": "Interface\\INotificavel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:38:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Medico.cs*",
+              "RelativeToolTip": "Models\\Medico.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:33:02.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Pessoa.cs*",
+              "RelativeToolTip": "Models\\Pessoa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:36:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Models\\Paciente.cs*",
+              "RelativeToolTip": "Models\\Paciente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:32:42.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projeto POO C#",
+              "DocumentMoniker": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Projeto POO C#.csproj",
+              "RelativeDocumentMoniker": "Projeto POO C#.csproj",
+              "ToolTip": "C:\\Danielbg\\GitHub\\Projeto POO C#\\Projeto POO C#.csproj*",
+              "RelativeToolTip": "Projeto POO C#.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T16:32:08.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
